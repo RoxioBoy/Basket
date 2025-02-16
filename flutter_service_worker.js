@@ -1,1 +1,1 @@
-// Simulated flutter_service_worker.js content
+// Corrected flutter_service_worker.js content
